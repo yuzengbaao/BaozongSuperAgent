@@ -13,7 +13,7 @@ fastapi>=0.68.0
 uvicorn>=0.15.0
 
 # Storage and Database
-sqlite3
+# sqlite3 is part of Python standard library
 json5>=0.9.6
 
 # Utilities

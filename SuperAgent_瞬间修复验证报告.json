@@ -1,0 +1,104 @@
+{
+  "timestamp": 1755419971.7611682,
+  "summary": {
+    "total_tests": 5,
+    "successful_tests": 5,
+    "success_rate": 100.0,
+    "average_score": 77.8,
+    "average_response_time": 0.020639657974243164,
+    "quality_grade": "✅ 合格级",
+    "assessment": "基本达到预期，仍有进一步优化空间"
+  },
+  "detailed_results": [
+    {
+      "test_name": "能力介绍测试",
+      "query": "你好，介绍一下你的能力",
+      "success": true,
+      "response_time": 0.01936507225036621,
+      "message_length": 331,
+      "suggestions_count": 2,
+      "next_actions_count": 0,
+      "confidence": 0.75,
+      "score": 80,
+      "quality_metrics": {
+        "length": "✅ 符合要求",
+        "keywords": "✅ 2/4 关键词匹配",
+        "structure": "✅ 结构化元素: 5",
+        "interactivity": "✅ 建议:2, 行动:0",
+        "speed": "✅ 响应时间: 0.02秒"
+      }
+    },
+    {
+      "test_name": "技术问题测试",
+      "query": "如何优化Python异步编程的性能？",
+      "success": true,
+      "response_time": 0.02111053466796875,
+      "message_length": 952,
+      "suggestions_count": 2,
+      "next_actions_count": 0,
+      "confidence": 0.95,
+      "score": 85,
+      "quality_metrics": {
+        "length": "✅ 符合要求",
+        "keywords": "✅ 4/4 关键词匹配",
+        "structure": "✅ 结构化元素: 3",
+        "interactivity": "✅ 建议:2, 行动:0",
+        "speed": "✅ 响应时间: 0.02秒"
+      }
+    },
+    {
+      "test_name": "API设计测试",
+      "query": "设计高并发Web API的最佳实践是什么？",
+      "success": true,
+      "response_time": 0.021040916442871094,
+      "message_length": 1364,
+      "suggestions_count": 2,
+      "next_actions_count": 0,
+      "confidence": 0.95,
+      "score": 76,
+      "quality_metrics": {
+        "length": "✅ 符合要求",
+        "keywords": "✅ 2/4 关键词匹配",
+        "structure": "✅ 结构化元素: 4",
+        "interactivity": "✅ 建议:2, 行动:0",
+        "speed": "✅ 响应时间: 0.02秒"
+      }
+    },
+    {
+      "test_name": "记忆系统测试",
+      "query": "你的记忆系统是如何工作的？",
+      "success": true,
+      "response_time": 0.020419597625732422,
+      "message_length": 330,
+      "suggestions_count": 2,
+      "next_actions_count": 0,
+      "confidence": 0.85,
+      "score": 80,
+      "quality_metrics": {
+        "length": "✅ 符合要求",
+        "keywords": "✅ 2/4 关键词匹配",
+        "structure": "✅ 结构化元素: 5",
+        "interactivity": "✅ 建议:2, 行动:0",
+        "speed": "✅ 响应时间: 0.02秒"
+      }
+    },
+    {
+      "test_name": "任务管理测试",
+      "query": "帮我创建一个学习AI Agent开发的任务",
+      "success": true,
+      "response_time": 0.021262168884277344,
+      "message_length": 682,
+      "suggestions_count": 2,
+      "next_actions_count": 0,
+      "confidence": 0.95,
+      "score": 68,
+      "quality_metrics": {
+        "length": "✅ 符合要求",
+        "keywords": "✅ 2/4 关键词匹配",
+        "structure": "✅ 结构化元素: 2",
+        "interactivity": "✅ 建议:2, 行动:0",
+        "speed": "✅ 响应时间: 0.02秒"
+      }
+    }
+  ]
+}
